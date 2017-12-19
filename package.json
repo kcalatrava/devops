@@ -1,5 +1,5 @@
 {
-  "name": "getintodevops-hellonode",
+  "name": "kcalatrava-devops",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
@@ -16,7 +16,7 @@
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "kevin@kevinpina.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
